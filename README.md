@@ -61,6 +61,8 @@ Batt sense  → GPIO 15  (ADC, divisor)
 ## Links Uteis:
 [Gráficos do Grafana](https://luanagobel.grafana.net/goto/Ypuqt8yHR?orgId=1 ) 
 
+[Vídeo no Youtube](https://youtu.be/U0asfO6R6Dc)
+
 ---
 
 
